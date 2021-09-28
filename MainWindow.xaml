@@ -8,6 +8,8 @@
         Title="MainWindow" Height="450" Width="800">
     <Grid>
         <Button Content="Richard" Width="50" Height="40" Click="Button_Click"></Button>
-        
+        <Button Content="Daniel" Width="50" Height="40" Click="Button1_Click" Margin="424,190,318,189"/>
+        <Button Content="Antonio" Width="50" Height="40" Click="Button2_Click" Margin="487,190,255,189"/>
+
     </Grid>
 </Window>

@@ -30,6 +30,14 @@ namespace PruebaColaboracion
         {
             Richard Nombre = new Richard();
             Nombre.Show();
+        }  private void Button1_Click(object sender, RoutedEventArgs e)
+        {
+            Daniel Nombre = new Daniel();
+            Nombre.Show();
+        }  private void Button2_Click(object sender, RoutedEventArgs e)
+        {
+            Antonio Nombre = new Antonio();
+            Nombre.Show();
         }
     }
 
