@@ -10,27 +10,18 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
 namespace PruebaColaboracion
 {
     /// <summary>
-    /// Lógica de interacción para MainWindow.xaml
+    /// Lógica de interacción para Daniel.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Daniel : Window
     {
-        public MainWindow()
+        public Daniel()
         {
             InitializeComponent();
-            
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Richard Nombre = new Richard();
-            Nombre.Show();
         }
     }
-
 }
